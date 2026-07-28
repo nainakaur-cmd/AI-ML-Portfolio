@@ -4,6 +4,17 @@ Welcome! I am an aspiring AI/ML student. This repository showcases my projects, 
 
 ## 🚀 Featured Projects
 
+### 🤖 CSV AI Data Analyst Agent
+**Goal:** Build an AI agent that answers questions about CSV datasets using natural language.
+
+**Tech Stack:** Python, Groq API, Llama 3.3, Pandas, Matplotlib
+
+**Highlights:**
+- Built an AI agent with tool calling
+- Integrated an LLM with Python functions
+- Automated dataset analysis and visualization
+- Maintains conversation context during a session
+- 
 ### 🛍️ [Online Shoppers Purchasing Intent](./Online-Shoppers-Intent)
 * **Goal:** Predict customer conversion rates based on web session behavior.
 * **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas.
