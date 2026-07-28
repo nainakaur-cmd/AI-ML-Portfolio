@@ -4,7 +4,7 @@ Welcome! I am an aspiring AI/ML student. This repository showcases my projects, 
 
 ## 🚀 Featured Projects
 
-### 🤖 CSV AI Data Analyst Agent
+### 🤖[CSV AI Data Analyst Agent](https://github.com/nainakaur-cmd/csv-ai-data-analyst-agent)
 **Goal:** Build an AI agent that answers questions about CSV datasets using natural language.
 
 **Tech Stack:** Python, Groq API, Llama 3.3, Pandas, Matplotlib
